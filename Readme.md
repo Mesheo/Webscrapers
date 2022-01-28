@@ -7,7 +7,7 @@
 * Armazene os dados no formato desejado :D
 
 ## Exemplo de saida
-![imagem_do_output_pasticos](./print_pasticos.png)
+![imagem_do_output_pasticos](./ico_scrapers/print_pasticos.png)
 
 ## Gostei, como faz?
 ```bash
