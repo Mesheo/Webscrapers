@@ -14,7 +14,7 @@
 # Clonar o repositorio
 git clone https://github.com/Mesheo/Biblioteca-API.git && cd Biblioteca-API
 
-# Criar ambiente Virtual Environment
+# Criar ambiente Virtual 
 python -m venv venv && ./venv/Scripts/Activate.ps1
 
 # Instalar dependencias
