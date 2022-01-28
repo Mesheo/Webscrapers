@@ -1,5 +1,3 @@
->Esse é um projeto simples onde eu faço uma "raspagem" de dados no site do cryptorank para obter informações sobre moedas que vão ser lançadas/foram lançadas. Eu não entendo nada de cripto mas entendo de python. Espero que ajude algum cripto enthusiast ou só algum dev inciando seu caminho no mundo do scraping
-
 ## A receita do bolo
 
 * Achar a URL de onde você quer retirar informação
@@ -10,6 +8,14 @@
 
 ## Exemplo de saida
 ![imagem_do_output_pasticos](./print_pasticos.png)
+
+## Faz ai po (Getting started!)
+Depois de clonar esse repo é só copiar essas 3 linhas no seu terminal pra sair arrancado dado de site por ai
+```bash
+>python -m venv venv #criando ambiente virtual pra tu nao bagunçar seu python 
+>./venv/Scripts/Activate.ps1 #Ativando o ambiente virtual 
+>pip install -r requirements.txt #Adicionando as libs necessárias
+```
 
 ```bash
 >python -m venv venv #criando ambiente virtual na sua versao do python
