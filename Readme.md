@@ -1,13 +1,15 @@
 >Esse é um projeto simples onde eu faço uma "raspagem" de dados no site do cryptorank para obter informações sobre moedas que vão ser lançadas/foram lançadas. Eu não entendo nada de cripto mas entendo de python. Espero que ajude algum cripto enthusiast ou só algum dev inciando seu caminho no mundo do scraping
 
-# A receita do bolo
+## A receita do bolo
 
-* Achar a URL de onde você quer retirar informaçãoFind the URL that you want to scrape
+* Achar a URL de onde você quer retirar informação
 * Inspecionar a página
 * Achar na página os dados que você quer extrair. (Pesquise por Xpath e tags html)
 * Escreva o código que automatiza esse processo
 * Armazene os dados no formato desejado :D
 
+## Exemplo de saida
+![imagem_do_output_pasticos](./print_pasticos.png)
 
 ```bash
 >python -m venv venv #criando ambiente virtual na sua versao do python
